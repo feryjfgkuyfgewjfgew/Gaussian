@@ -25,7 +25,7 @@ Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: naresh.r
 RegisterNumber: 23005559
 */
-```
+
 import numpy as np
 import sys
 n=int(input())
