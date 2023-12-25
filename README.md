@@ -49,10 +49,12 @@ for i in range(n-2,-1,-1):
     x[i]=x[i]/a[i][i]
 for i in range(n):
     print("X%d = %0.2f" %(i,x[i]),end=" ")
+
 ```
 ## Output:
 
-![Alt text](<Screenshot 2023-12-25 053635.png>)
+![Screenshot 2023-12-25 053635](https://github.com/feryjfgkuyfgewjfgew/Gaussian/assets/150319377/b994910a-712f-4517-8e7c-7a0e92bbb8a7)
+
 
 
 
